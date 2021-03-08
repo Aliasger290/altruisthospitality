@@ -326,6 +326,14 @@ img{
   margin-bottom: var(--mb-2);
 }
 
+.services__img3{
+  width: 84px;
+  height: 64px;
+  fill: var(--first-color);
+  color: #3EB54C;
+  margin-bottom: var(--mb-2);
+}
+
 .services__title{
   font-size: var(--h3-font-size);
   color: var(--title-color);
@@ -388,7 +396,7 @@ img{
 }
 
 .footer-main-title {
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: #3EB54C;
   margin-right: 1rem;
   margin-bottom: 0rem;
