@@ -306,6 +306,7 @@ img{
   width: 280px;
   border-radius: 50%;
   justify-self: center;
+  filter: drop-shadow(0 0 0.4rem rgb(146, 146, 146));
 }
 
 /*========== SERVICES ==========*/
@@ -536,6 +537,7 @@ img{
 
   .home__img{
     width: 500px;
+    filter: drop-shadow(0 0 0.3rem rgb(196, 196, 196));
   }
 
   .about__container,
