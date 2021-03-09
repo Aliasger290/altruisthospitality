@@ -104,6 +104,7 @@ sr.reveal(`.home__data, .home__img,
             .services__content, .menu__content,
             .app__data, .app__img,
             .contact__data, .contact__button,
-            .footer__content, .footer-main-title, .contact-us-img, .section-subtitle, .section-title`, {
+            .contact-us-img, .section-subtitle, 
+            .section-title`, {
     interval: 200
 })
